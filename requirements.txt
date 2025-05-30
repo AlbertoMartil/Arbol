@@ -1,6 +1,9 @@
+streamlit
 pandas
 numpy
 seaborn
 matplotlib
 scikit-learn
-streamlit
+tensorflow
+pydot
+graphviz
